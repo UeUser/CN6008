@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481879411052",
+    "project_id": "kyle-s-hemework",
+    "storage_bucket": "kyle-s-hemework.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481879411052:android:88446d6333d32438208b49",
+        "android_client_info": {
+          "package_name": "com.example.kyle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRFfjWlNhWK6KdV-JpJLc5g5FxxP6eH3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
